@@ -1,2 +1,2 @@
 # GoldPricePrediction-ORI
-Gold Price Prediction using RNN and LSTM
+Gold Price Prediction using LSTM
